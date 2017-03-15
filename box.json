@@ -1,0 +1,6 @@
+{
+    "directories": ["src/", "vendor/", "bin/"],
+    "main": "bin/scrapoutte",
+    "output": "scrapoutte.phar",
+    "stub": true
+}
