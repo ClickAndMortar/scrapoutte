@@ -1,0 +1,10 @@
+{
+  "minimum-stability" : "dev",
+  "require": {
+    "fabpot/goutte": "^3.2@dev",
+    "symfony/console": "^3.3@dev"
+  },
+  "autoload": {
+    "psr-4": {"Scrapoutte\\": "src"}
+  }
+}
