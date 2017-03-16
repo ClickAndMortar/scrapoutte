@@ -2,9 +2,11 @@
 
 [Goutte](https://github.com/FriendsOfPHP/Goutte) enabled web page scraper.
 
-Scrapoutte will follow all links (internal or external) matching a given CSS selector.
+Scrapoutte will follow all links (excluding external ones) matching a given CSS selector.
 
 ## Installation
+
+Use PHAR (see Releases) or install with composer:
 
 ```
 composer install
